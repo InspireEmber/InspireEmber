@@ -4,11 +4,6 @@
   <div style="display: flex; align-items: flex-start;">
     <div align="left" style="float: left; width: 45%; min-width: 300px;">
       <br>
-      <h3> Sophomore @ SVNIT, Surat</h3>
-      <p>
-         B.tech Mathematics & Computing.
-        <br> Art Enthusiast. Curious. Developer.
-      </p>
     </div>
     <div align="right" style="float: right; width: 50%;">
       <img src="./tea_gif.gif" alt="Aesthetic Tea Coding GIF" style="border-radius: 10px;"/>
