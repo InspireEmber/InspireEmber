@@ -51,8 +51,8 @@ Late-night thinker. Long-term grinder.
   <img src="https://nirzak-streak-stats.vercel.app/?user=InspireEmber&theme=city_lights&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InspireEmber&theme=city_lights&hide_border=true&layout=compact"/>
+<p align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/InspireEmber/InspireEmber/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
