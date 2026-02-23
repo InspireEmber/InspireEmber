@@ -6,13 +6,13 @@
       <br>
       <h3>💫 Sophomore @ SVNIT, Surat</h3>
       <p>
-        B.Tech in Mathematics & Computing<br>
-        Artist at heart. Builder by obsession.<br>
+        B.Tech in Mathematics & Computing,
+        Artist at heart. Builder by obsession.
         Late-night thinker. Long-term grinder.
       </p>
     </div>
     <div align="right" style="float: right; width: 50%;">
-      <img src="./tea_gif.gif" width="100%" alt="Aesthetic Tea Coding GIF" style="border-radius: 10px;"/>
+      <img src="./tea_gif.gif" alt="Aesthetic Tea Coding GIF" style="border-radius: 10px;"/>
     </div>
   </div>
 </div>
