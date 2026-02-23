@@ -4,8 +4,11 @@
   <div style="display: flex; align-items: flex-start;">
     <div align="left" style="float: left; width: 45%; min-width: 300px;">
       <br>
+      <p>
+        Curious. Learner. 
+      </p>
     </div>
-    <div align="right" style="float: right; width: 50%;">
+    <div align="center" style="float: right; width: 50%;">
       <img src="./tea_gif.gif" alt="Aesthetic Tea Coding GIF" style="border-radius: 10px;"/>
     </div>
   </div>
