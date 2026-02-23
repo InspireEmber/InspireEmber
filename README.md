@@ -1,20 +1,24 @@
 # 🌃 Tirth Sutariya
 
-<table border="0">
-  <tr>
-    <td width="55%" valign="top">
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <div align="left" style="float: left; width: 45%; min-width: 300px;">
+      <br>
       <h3>💫 Sophomore @ SVNIT, Surat</h3>
       <p>
         B.Tech in Mathematics & Computing<br>
         Artist at heart. Builder by obsession.<br>
         Late-night thinker. Long-term grinder.
       </p>
-    </td>
-    <td width="45%" align="right" valign="top">
-      <img src="./tea_gif.gif" width="500" alt="Aesthetic Tea Coding GIF"/>
-    </td>
-  </tr>
-</table>
+    </div>
+    <div align="right" style="float: right; width: 50%;">
+      <img src="./tea_gif.gif" width="100%" alt="Aesthetic Tea Coding GIF" style="border-radius: 10px;"/>
+    </div>
+  </div>
+</div>
+
+<br clear="both">
+<br>
 
 # 💻 Tech Stack
 
