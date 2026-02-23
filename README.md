@@ -1,13 +1,20 @@
 # 🌃 Tirth Sutariya
 
-<img src="./tea_gif.gif" width="300" align="right" alt="Aesthetic Tea Coding GIF" />
-
-### 💫 Sophomore @ SVNIT, Surat  
-B.Tech in Mathematics & Computing  
-Artist at heart. Builder by obsession.  
-Late-night thinker. Long-term grinder.
-
-<br clear="right">
+<table border="0">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>💫 Sophomore @ SVNIT, Surat</h3>
+      <p>
+        B.Tech in Mathematics & Computing<br>
+        Artist at heart. Builder by obsession.<br>
+        Late-night thinker. Long-term grinder.
+      </p>
+    </td>
+    <td width="45%" align="right" valign="top">
+      <img src="./tea_gif.gif" width="500" alt="Aesthetic Tea Coding GIF"/>
+    </td>
+  </tr>
+</table>
 
 # 💻 Tech Stack
 
