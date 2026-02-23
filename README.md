@@ -1,12 +1,12 @@
-# 🌃 Tirth Sutariya
+#  Tirth Sutariya
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     <div align="left" style="float: left; width: 45%; min-width: 300px;">
       <br>
-      <h3>💫 Sophomore @ SVNIT, Surat</h3>
+      <h3> Sophomore @ SVNIT, Surat</h3>
       <p>
-        Sophomore at SVNIT B.tech Mathematics & Computing.
+         B.tech Mathematics & Computing.
         <br> Art Enthusiast. Curious. Developer.
       </p>
     </div>
@@ -19,7 +19,7 @@
 <br clear="both">
 <br>
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ### 👨‍💻 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -28,7 +28,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 🌐 Web & App
+###  Web & App
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -36,13 +36,13 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🗄 Databases
+###  Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 📊 Data & ML
+###  Data & ML
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -50,7 +50,7 @@
 
 ---
 
-# 📊 GitHub Activity (City Lights Theme)
+#  GitHub Activity (City Lights Theme)
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=InspireEmber&theme=city_lights&hide_border=true" height="170"/>
@@ -58,7 +58,7 @@
 
 ---
 
-## 🐍 My GitHub Contribution Snake
+##  My GitHub Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/InspireEmber/InspireEmber/output/github-snake-dark.svg">
