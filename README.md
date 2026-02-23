@@ -5,13 +5,11 @@ B.Tech in Mathematics & Computing
 Artist at heart. Builder by obsession.  
 Late-night thinker. Long-term grinder.
 
----
 
-<p align="center">
+<p style="flex "align="center">
   <img src="./tea_gif.gif" width="500" alt="Aesthetic Tea Coding GIF"/>
 </p>
 
----
 
 # 💻 Tech Stack
 
@@ -47,7 +45,6 @@ Late-night thinker. Long-term grinder.
 # 📊 GitHub Activity (City Lights Theme)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InspireEmber&theme=city_lights&hide_border=true&include_all_commits=true" height="170"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=InspireEmber&theme=city_lights&hide_border=true" height="170"/>
 </p>
 
