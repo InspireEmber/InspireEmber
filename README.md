@@ -6,8 +6,8 @@
       <br>
       <h3>💫 Sophomore @ SVNIT, Surat</h3>
       <p>
-        Sophomore at SVNIT B.tech Mathematics & Computing
-        Art Enthusiast. Curious. Developer.
+        Sophomore at SVNIT B.tech Mathematics & Computing.
+        <br> Art Enthusiast. Curious. Developer.
       </p>
     </div>
     <div align="right" style="float: right; width: 50%;">
