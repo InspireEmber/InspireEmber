@@ -5,7 +5,7 @@
     <div align="left" style="float: left; width: 45%; min-width: 300px;">
       <br>
       <p>
-        Curious. Learner. 
+        Artist at Heart.
       </p>
     </div>
     <div align="center" style="float: right; width: 50%;">
@@ -24,14 +24,12 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ###  Web & App
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ###  Databases
@@ -48,14 +46,6 @@
 
 ---
 
-#  GitHub Activity (City Lights Theme)
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=InspireEmber&theme=city_lights&hide_border=true" height="170"/>
-</p>
-
----
-
 ##  My GitHub Contribution Snake
 
 <picture>
@@ -64,8 +54,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/InspireEmber/InspireEmber/output/github-snake.svg">
 </picture>
 
----
-
-<p align="center">
-  <i>Consistent > Motivated</i>
-</p>
+--
