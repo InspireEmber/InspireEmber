@@ -1,52 +1,128 @@
-#  Tirth Sutariya
+<h1 align="center">Tirth Sutariya</h1>
 
-<div align="center">
-  <div style="display: flex; align-items: flex-start;">
-    <div align="left" style="float: left; width: 45%; min-width: 300px;">
-      <br>
-      <p>
-        Artist at Heart.
-      </p>
-    </div>
-    <div align="center" style="float: right; width: 50%;">
-      <img src="./tea_gif.gif" alt="Aesthetic Tea Coding GIF" style="border-radius: 10px;"/>
-    </div>
-  </div>
-</div>
+<p align="center">
+  <img src="./tea_gif.gif" width="430"/>
+</p>
 
-<br clear="both">
-<br>
+<p align="center">
+  <i>Artist at Heart.</i>
+</p>
 
-#  Tech Stack
+<p align="center">
+  Mathematics & Computing @ SVNIT Surat
+</p>
 
-### 👨‍💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<p align="center">
+  ML/AI · Stochastic Systems · Backend Infrastructure
+</p>
 
-###  Web & App
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-###  Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
-
-###  Data & ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<p align="center">
+  <sub>
+  Interested in uncertainty, optimization, and systems that learn from structured data
+  </sub>
+</p>
 
 ---
 
-##  My GitHub Contribution Snake
+<p align="center">────────────</p>
+
+## Direction
+
+I am interested in systems that operate under incomplete information.
+
+Most of my work sits somewhere between:
+
+- stochastic modeling  
+- optimization systems  
+- ML pipelines  
+- backend infrastructure  
+- data-intensive workflows  
+
+I care about how systems evolve over time:
+- how assumptions propagate  
+- how uncertainty is handled  
+- how abstractions scale  
+- how experimentation becomes infrastructure  
+
+---
+
+<p align="center">────────────</p>
+
+## Selected Work
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### Stoch-opt-engine
+
+Engine for stochastic optimization and uncertainty-aware computation.
+
+Focused on:
+- probabilistic reasoning
+- optimization workflows
+- modular system design
+- experimentation infrastructure
+
+</td>
+
+<td width="33%" valign="top">
+
+### Real-estate-analyser
+
+Structured data pipeline for real-estate analysis and prediction.
+
+Focused on:
+- analytical workflows
+- feature-driven modeling
+- valuation analysis
+- reproducible data processing
+
+</td>
+
+<td width="33%" valign="top">
+
+### Mindsettler
+
+A minimal system exploring structured thinking and cognitive clarity.
+
+Focused on:
+- decision structuring
+- logic-oriented interaction
+- calm interface design
+- simplicity through systems
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<p align="center">────────────</p>
+
+## Systems I Work With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,express,postgres,mongodb,react,nextjs" />
+</p>
+
+<p align="center">
+  <sub>
+  Building ML-oriented systems, backend services, and data workflows
+  </sub>
+</p>
+
+---
+
+<p align="center">────────────</p>
+
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=InspireEmber&theme=transparent&hide_border=true"/>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/InspireEmber/InspireEmber/output/github-snake-dark.svg">
@@ -55,3 +131,7 @@
 </picture>
 
 ---
+
+<p align="center">
+  <i>Building quietly. Learning deeply.</i>
+</p>
