@@ -13,12 +13,12 @@
 </p>
 
 <p align="center">
-  ML/AI · Stochastic Systems · Backend Infrastructure
+  ML/AI · Systems · Backend 
 </p>
 
 <p align="center">
   <sub>
-  Interested in uncertainty, optimization, and systems that learn from structured data
+  Interested in Systems thinking, leading, ML workflows
   </sub>
 </p>
 
@@ -28,7 +28,7 @@
 
 ## Direction
 
-I am interested in systems that operate under incomplete information.
+I am interested in systems that operate as requested advertently
 
 Most of my work sits somewhere between:
 
@@ -39,10 +39,10 @@ Most of my work sits somewhere between:
 - data-intensive workflows  
 
 I care about how systems evolve over time:
-- how assumptions propagate  
-- how uncertainty is handled  
+- how assumptions propagate    
 - how abstractions scale  
-- how experimentation becomes infrastructure  
+- how experimentation becomes infrastructure
+- creativity in process building
 
 ---
 
@@ -105,7 +105,7 @@ Focused on:
 ## Systems I Work With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,express,postgres,mongodb,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,express,postgres,mongodb,react,nextjs,pytorch" />
 </p>
 
 <p align="center">
@@ -133,5 +133,5 @@ Focused on:
 ---
 
 <p align="center">
-  <i>Building quietly. Learning deeply.</i>
+  <i>Let It Out</i>
 </p>
