@@ -105,7 +105,7 @@ Focused on:
 ## Systems I Work With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,express,postgres,mongodb,fastapi,pytorch,scikitlearn" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,postgres,mongodb,fastapi,pytorch,scikitlearn,docker" />
 </p>
 
 <p align="center">
